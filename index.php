@@ -3,7 +3,6 @@
     <title>TalentoenTI</title>
   </head>
   <body bgcolor=white>
-    <p>hola talento  1</p>
-   vamos a probar 2
+  <?php echo '<p>Talento en TI</p>'; ?>
   </body>
 </html>
