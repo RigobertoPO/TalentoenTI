@@ -6,6 +6,7 @@
   <body bgcolor=white>
   <?php
     echo '<h1>Talento en TI</h1>';
+    
     echo '<p>En construcción</p>';
     echo '<img src="images/Mascota.png" />';
   ?>
