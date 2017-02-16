@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>TalentoenTI</title>
+    <title>TalentoenTI Ver 1.0</title>
     <link rel="stylesheet" type="text/css" href="css/StyleMain.css">
   </head>
   <body bgcolor=white>
