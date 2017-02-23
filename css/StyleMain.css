@@ -1,23 +1,8 @@
 *{
 padding: 0;
+margin: 0;
+border: 0;
 }
 body{
     background: lightcoral;
-}
-/*clases*/
-section#barra_herramienta{
-	width: 50%; 
-	height: 1%; 
-	padding: 2%; 
-	position: absolute;
-	left: 22%;
-	bottom: 0; 
-	background: rgba(0,0,0,.3); 
-	color: #fff; 
-	text-shadow: 100 -1px 0 rgba(0,0,0,13); 
-	font-size: 18px; 
-	line-height: 18px; 
-	text-align: left; 
-	font-family: Verdana;
-	font-weight: bold;
 }
