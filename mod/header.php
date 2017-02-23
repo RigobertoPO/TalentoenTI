@@ -20,43 +20,43 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              <a class="navbar-brand" href="https://www.henry-chavez.com">Menu Responsive</a>
+              <a class="navbar-brand" href="#">Menu Responsive</a>
             </div>
             <div class="collapse navbar-collapse" id="menu">
               <ul class="navbar-nav">
-                <li class="active"><a href="https://www.henry-chavez.com">Link</a></li>
-                <li><a href="https://www.henry-chavez.com">Link</a></li>
+                <li class="active"><a href="#">Link</a></li>
+                <li><a href="#">Link</a></li>
                 <li class="dropdown">
-                  <a href="https://www.henry-chavez.com" class="dropdown-toggle">down <b class="caret"></b></a>
+                  <a href="#" class="dropdown-toggle">down <b class="caret"></b></a>
                   <ul class="dropdown-menu">
-                    <li><a href="https://www.henry-chavez.com">Action</a></li>
-                    <li><a href="https://www.henry-chavez.com">Another action</a></li>
-                    <li><a href="https://www.henry-chavez.com">Something else here</a></li>
+                    <li><a href="#">Action</a></li>
+                    <li><a href="#">Another action</a></li>
+                    <li><a href="#">Something else here</a></li>
                     <li class="divider"></li>
-                    <li><a href="https://www.henry-chavez.com">Separated link</a></li>
+                    <li><a href="#">Separated link</a></li>
                     <li class="dropdown">
-                      <a href="https://www.henry-chavez.com" class="dropdown-toggle">Dropdown <b class="caret right"></b></a>
+                      <a href="#" class="dropdown-toggle">Dropdown <b class="caret right"></b></a>
                       <ul class="dropdown-menu">
-                        <li><a href="https://www.henry-chavez.com">Action</a></li>
-                        <li><a href="https://www.henry-chavez.com">Another action</a></li>
-                        <li><a href="https://www.henry-chavez.com">Something else here</a></li>
+                        <li><a href="#">Action</a></li>
+                        <li><a href="#">Another action</a></li>
+                        <li><a href="#">Something else here</a></li>
                         <li class="divider"></li>
-                        <li><a href="https://www.henry-chavez.com">Separated link</a></li>
+                        <li><a href="#">Separated link</a></li>
                       </ul>
                   </li>
                   </ul>
                 </li>
               </ul>           
               <ul class="nav navbar-nav navbar-right">
-                <li><a href="https://www.henry-chavez.com">Link</a></li>
+                <li><a href="#">Link</a></li>
                 <li class="dropdown">
-                  <a href="https://www.henry-chavez.com" class="dropdown-toggle">Dropdown <b class="caret"></b></a>
+                  <a href="#" class="dropdown-toggle">Dropdown <b class="caret"></b></a>
                   <ul class="dropdown-menu">
-                    <li><a href="https://www.henry-chavez.com">Action</a></li>
-                    <li><a href="https://www.henry-chavez.com">Another action</a></li>
-                    <li><a href="https://www.henry-chavez.com">Something else here</a></li>
+                    <li><a href="#">Action</a></li>
+                    <li><a href="#">Another action</a></li>
+                    <li><a href="#">Something else here</a></li>
                     <li class="divider"></li>
-                    <li><a href="https://www.henry-chavez.com">Separated link</a></li>
+                    <li><a href="#">Separated link</a></li>
                   </ul>
                 </li>
               </ul>
